@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "KKBOX\\OpenAPI\\": "src/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^4|^5|^6"
     },
